@@ -1,2 +1,2 @@
 # SQL-Excel-Project
-Data analyst portfolio project analyzing HR metrics using SQL and Excel.
+Data analyst portfolio project using SQL and Excel.
